@@ -1,13 +1,18 @@
 body {
     margin:15px;
+    font-family: sans-serif;
 }
 #first{
     border: solid black 1px;
     padding-bottom: 20px;
     padding-left: 20px;
     padding-right: 20px;
+    line-height: 1.2;
 }
 #second{
-    width: 525px;
-    height: 447px;
+    width: 502px;
+    height: 352px;
+}
+#third{
+    line-height: 1.6;
 }
